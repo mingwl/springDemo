@@ -4,6 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 tobeignored.txt
+*.log
 
 ### STS ###
 .apt_generated
