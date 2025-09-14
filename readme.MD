@@ -10,4 +10,5 @@ feature4
 feature5
 feature6
 while stashed
+stash 5
 #line 4
